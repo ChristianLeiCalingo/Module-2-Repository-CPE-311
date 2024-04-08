@@ -1,1 +1,6 @@
 # Module-2-Repository-CPE-311
+
+
+Seatwork 2.1 Colab Link:
+
+https://colab.research.google.com/drive/1IMssYI2voURR_0DqS0z_Rl-2oPbcTCYa?usp=sharing
